@@ -3,7 +3,7 @@
     "path": "~/Desktop/GitHub/ru_coordination/01_docs/slides/welcome/index.Rmd",
     "project_path": "01_docs/slides/welcome/index.Rmd",
     "type": "r_markdown",
-    "hash": "1288404741",
+    "hash": "3755571404",
     "contents": "",
     "dirty": false,
     "created": 1661983057191.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,0",
-        "scrollLine": "15"
+        "cursorPosition": "102,27",
+        "scrollLine": "94"
     },
     "folds": "",
-    "lastKnownWriteTime": 1661988304,
+    "lastKnownWriteTime": 1661988827,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1661988304652,
+    "last_content_update": 1661988827426,
     "read_only": false,
     "read_only_alternatives": []
 }
