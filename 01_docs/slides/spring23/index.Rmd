@@ -1,0 +1,48 @@
+---
+title: "Happy Spring!"
+subtitle: "Spanish Language Program"
+author: "Nicole Rodriguez"
+institute: "Rutgers University"
+date: "2022/12/02 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [rutgers, rutgers-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: 16:9
+      link-citations: yes
+---
+
+
+important dates
+
+conflict forms
+
+---
+
+observations
+
+---
+
+open science/open teaching
+
+
+---
+
+community engagement
+
+
+---
+
+Rutgers Day
+
+---
+
+Instagram
+
+
+---
+
