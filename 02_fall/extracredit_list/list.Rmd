@@ -20,7 +20,7 @@ As a reminder, the students should recieve 5 extra credit points towards their h
 | 940:131:03         | TD, AP, AP, SJ, EP, NK, RP, JY, SJ, LB, AP, JW, CHM, IL |
 | 940:131:90         | JS, TB                 |
 | 940:132:01         | MG, AR, JS, CC, IA, JE, RS, BE |
-| 940:132:90         | ZJ, KD, FH, GF, NA, LL, DB, VG, AD, AK, MH, ML, AG, JJ, GE |
+| 940:132:90         | ZJ, KD, FH, GF, NA, LL, DB, VG, AD, AK, MH, ML, AG, JJ, GE, KK |
 | 940:132:91         | AH, AT, WS, AD, VU     |
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Happy Spring!"
 subtitle: "Spanish Language Program"
-author: "Nicole Rodriguez"
+author: "Nicole Rodríguez"
 institute: "Rutgers University"
 date: "2022/12/02 (updated: `r Sys.Date()`)"
 output:
@@ -15,34 +15,122 @@ output:
       ratio: 16:9
       link-citations: yes
 ---
+# Important dates
 
+.pull-left[
 
-important dates
+- First day of classes - 1/17
 
-conflict forms
+- Drop add period - 1/26 - last day to drop without a W
+
+  - 1/30 - last day to add without a W
+
+- Conflict Resolution Form - Weeks 2 & 3 - 2/3
+
+- OLE - Week 7
+
+- CHE-Midterm - Sunday February 19, 3-4:20pm
+
+- **Day off after midterm**
+
+]
+
+.pull-left[
+
+- Last day to withdraw from a course with a W grade: March 20, 2023
+
+- Warning grades - Feb 20-March 3
+
+- Spring Break 3/11-3/19 
+
+- Final OLE - Week 15
+
+- Last day of classes 5/1
+
+- Final - TBA
+]
+
 
 ---
+# Changes from last semester
 
-observations
-
----
-
-open science/open teaching
+B. FINANCES - The Department of Spanish and Portuguese is committed to supporting students in financial need, including helping with technology and textbook requirements. Students do not need to navigate financial challenges alone. If you encounter financial challenges related to this class, please let the instructor know ASAP so that the department can work with you and your instructor to make the necessary arrangements. 
 
 
 ---
+class: center, middle, inverse
 
-community engagement
+# Snow Day Policy
+
+---
+# First day
+
+- Verify student list
+
+- Student Profiles (verify placement!!!)
+
+- Intro + icebreaker
+---
+
+# First/second week
+
+- Conflict resolution form 
+
+- Drop/add period
+
+---
+# Observations
+
+- Once a year
+
+- If I didn't observe you last semester, then I'll observe you this semester
+
+- If you want another observation, that's fine too
+
+---
+class: center, middle 
+
+# Open science | Open teaching
+
+- QP/Dissertation stuff
+
+- Sharing resources
 
 
 ---
+class: center, middle
 
-Rutgers Day
-
----
-
-Instagram
-
+# Community Engagement 
 
 ---
+background-image: url("libs/img/rday.png")
+background-size: contain
 
+
+---
+class: center, middle
+
+# Other ideas?
+
+---
+class: center, middle 
+
+# Instagram
+
+---
+# Instagram ideas
+
+
+- Student spotlight 
+
+- TA/Grad student spotlight
+
+- Faculty/staff spotlight
+
+- Student work 
+
+
+---
+class: center, middle
+
+# Mental health
