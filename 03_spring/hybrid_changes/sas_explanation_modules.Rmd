@@ -1,0 +1,102 @@
+---
+title: "Sample Modules from 940:102/132: Hybrid Format"
+output: pdf_document
+author: Nicole Rodríguez
+---
+
+# Structure
+
+The Canvas site is set up so that when you log in, you see the modules for the 102 sample unit and 132 sample unit. 
+Each sample unit has the following subsections: *recursos*, *días 1 y 2*, *día 3 (online)*, *días 4 y 5*, and *día 6 (online)*. 
+Because we are switching to a hybrid format, the students will have to do a significant amount of work online to ensure that the 4 credit hours are met. 
+As all Spanish language courses follow a flipped classroom model, the *recursos* tab is filled with study tools (powerpoints, infographics, etc.) that the students need to review on their own time before class. 
+The subsections *días 1 y 2* and *días 4 y 5* are a sample of what each section will be doing during class time while *día 3 (online)* and *día 6 (online)* are the tasks that they need to complete on their own with specific weekly due dates. 
+For the purposes of these sample units, students will also be using the *Discussion* tab on Canvas. 
+
+## Course information
+
+To get a better understanding of the two classes that the sample units come from, please read the following descriptions of each of the classes. 
+
+**940:102** is Elementary Spanish II (4 credits). The course objectives are the following: 
+
+This course aims to help students acquire communication skills in both oral and written Spanish through the interpersonal, interpretive, and presentational modes. Upon successful completion of this course, you should be able to:
+
+1. **Comprehend** spoken Spanish with sufficient ability to grasp the main idea and some supporting details in short conversations, both spontaneous and taped, that relate to daily life and represent authentic situations.
+
+2. **Speak** Spanish well enough to have short conversations with native speakers about topics such as describing activities and events in the past, giving commands, giving advice and recommendations, expressing emotions and feelings, providing or obtaining specific information for survival, as well as being able to talk about customs, pastimes, health, and quality of life.
+
+3. **Read** and understand newspaper articles, classified ads, and brief segments taken from various forms of literature that touch on many different topics.
+
+4. **Write** a coherent string of sentences with some organization in a paragraph -like format of varying lengths on topics that relate to personal situations and experiences as well as more general topics that deal with world events and situations that occur in daily life. Because students are creating with language rather than relying on memorized phrases patterns of errors will begin to appear.
+
+**940:132** is Intermediate Spanish II (4 credits) and is the last class in the language program before taking content, grammar, and writing courses. 
+This is the first class students take that count towards a major/minor. 
+The course objectives are the following: 
+
+This course aims to help students acquire communication skills in both oral and written Spanish through the interpersonal, interpretive, and presentational modes. Upon successful completion of this course, you should be able to:
+ 
+
+1. **Comprehend** spoken Spanish with sufficient ability to grasp the main idea and some supporting details in extended conversations, both spontaneous and taped, that relate to daily life and represent authentic situations.
+
+2. **Speak** Spanish well enough to have short conversations with native speakers about topics such as describing activities and events in the past, giving commands, giving advice and recommendations, expressing emotions and feelings, providing or obtaining specific information, as well as being able to talk about customs, pastimes, health, and quality of life.
+
+3. **Read** AND UNDERSTAND selections of texts taken from a variety of genres about different topics related to the Spanish-speaking world
+
+4. **Write** essays that vary in length (no more than 2 pages) on topics that relate to personal situations and experiences as well as more general topics that deal with world events and situations that occur in daily life.
+
+# Module and content explanation
+## 940:102
+
+The sample unit for Elementary Spanish II is based on a chapter that has the following aims:
+
+Content: Medicine/health vocabulary
+
+Grammar: Commands, Preterit vs. Imperfect past tense
+
+All sections follow the same syllabus and instructors have been trained on best practices in world language methodology. 
+Due to this training, instructors have the freedom to plan and design their own lessons meaning that instruction during class time will vary from instructor to instructor. 
+For the first week, the students will spend two days building vocabulary and speaking about "una vida sana" (a healthy life/lifestyle). 
+The module provides materials for two sample in class activities, one a jigsaw activity where students will be working in groups to interpret meaning from an infograph. 
+The second activity is a listening activity where the students will watch a video and enter into a class wide discussion based on the health advice provided by the doctor in the video. 
+During the second week, the focus will be on the differences between the preterit and imperfect tense (both are used to describe the past). 
+To start, the class will read the story "Espuma y nada más". 
+The second class day will be dedicated to the retelling of a famous story or sharing a favorite childhood memory. 
+In order to do so, students will use the website Story Bird to make a creative and visual storybook for the option that they chose. 
+The completion of this task will take place online and will be expanded on (see the following paragraph for details). 
+
+
+The online class days have instructions written in Spanish followed by a version in English. 
+At this point in the program, written instructions will be primarily in Spanish so there will not be a directly translated version of the task available to the students. 
+The online class days are designed to build on the classwork and have them produce something to show their knowledge and mastery of the content. 
+For the first week, students will be tasked with 
+During the second week, students will complete the Story Bird stories that they began writing in class. 
+After they are finished writing their stories, they will upload a link to a discussion board and have to find their partner's (previously assigned by the instructor) story. 
+Their task is to narrate their partner's story via FlipGrid and upload a video, using the preterit and imperfect. 
+The original author then has to watch and listen to their partner's interpretation of the story and make a video response explanining if they interpreted their stories correctly or not. 
+
+## 940:132
+
+The sample unit for Intermediate Spanish II is based on a chapter that has the following aims: 
+
+Content: Art, Culture, Poetry
+
+Grammar: Conditional, Future, Imperfect Subjunctive 
+
+
+As with 102, all sections follow the same syllabus and instructors have been trained on best practices in world language methodology and specific lessons and activities will vary from class to class. 
+The unit is split into two weeks as well. 
+The first week is dedicated to art. 
+Two of the topics that will be detailed in class are graffiti and indigenous art. 
+A sample in class activity is the Padlet where students will respond to the questions on the link provided and have the opportunity to read others responses and write back. 
+A whole class discussion will happen after the written activity. 
+The second week is dedicated to the conditional tense in Spanish. 
+The video "El vendedor del humo" is another sample activity where the short film will be played in class and then the students will use then create alternate versions of the story in order to show their understanding of the grammar point discussed in class. 
+
+Again, the online class days have instructions written in Spanish followed by a version in English.
+At this point in the language program, all instructions, communications, and evaluations are conducted in Spanish. 
+There will not be a translated version available for the students. 
+The first online class is a FlipGrid video discussion based on a video from the online textbook that the course uses. 
+The students are required to write the answers to a few questions and then record a video of themselves answering a few opened ended questions that combine the work that was done in class and the content they learned from the video. 
+For the second day of online work, the students will be writing poems that incorporate topics from class and the grammar/vocabulary points from the chapter that we are currently working on. 
+Students are provided with samples and will then find an image/video/emoji/or any other visual that can be used to describe the emotions of the poem. 
+They will be uploading the poem and the visual interpretation to a discussion board where other students will be reading and reacting to those poems. 
