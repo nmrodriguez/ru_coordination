@@ -47,7 +47,7 @@ output:
 
 - Last day of classes 5/1
 
-- Final - TBA
+- Final - 5/4/2023 12:00-3:00 PM
 ]
 
 
